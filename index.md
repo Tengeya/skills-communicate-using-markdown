@@ -8,6 +8,11 @@ Hi! I'm Pauline Tengeya, a software development student passionate about front-e
 ``` javascript
 var myVar = "Hello, world!";
 ```
+My Checklist:
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 # <h6>Thanks for visiting! I'm still learning, so this page will keep growing with me._
+
 
 
